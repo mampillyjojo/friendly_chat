@@ -47,6 +47,14 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-core:16.0.4'
     implementation 'com.google.firebase:firebase-database:16.0.4'
+    implementation 'com.google.firebase:firebase-auth:16.0.5'
+    implementation 'com.firebaseui:firebase-ui-auth:4.2.1'
+
+
+
+    /// Timber logging
+    implementation 'com.jakewharton.timber:timber:4.7.1'
+
 
 }
 
